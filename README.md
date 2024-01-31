@@ -1,4 +1,4 @@
-## hello-world
+# hello-world
 This is my first repository in Github.
-# goodbye world
+## goodbye world
 This is my first commit.
